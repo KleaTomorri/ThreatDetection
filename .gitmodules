@@ -1,0 +1,3 @@
+[submodule "projectcode"]
+	path = projectcode
+	url = https://github.com/KleaTomorri/ThreatDetection-Private-Repo
